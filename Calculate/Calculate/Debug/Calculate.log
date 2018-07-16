@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+c:\users\余梓权\documents\visual studio 2017\projects\calculate\calculate\calculator.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\余梓权\documents\visual studio 2017\projects\calculate\calculate\calculator.cpp(145): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+c:\users\余梓权\documents\visual studio 2017\projects\calculate\calculate\calculator.cpp(151): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Calculator.h
+Debug\Calculator.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Calculate.vcxproj -> C:\Users\余梓权\documents\visual studio 2017\Projects\Calculate\Debug\Calculate.exe
+  Calculate.vcxproj -> C:\Users\余梓权\documents\visual studio 2017\Projects\Calculate\Debug\Calculate.pdb (Partial PDB)
